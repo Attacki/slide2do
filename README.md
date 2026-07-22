@@ -1,4 +1,4 @@
-# Wuzi Agent
+# wuzi-agent
 
 > 一个 TypeScript + Bun 的多角色 AI 助手：摒弃单一臃肿的智能体，转而提供可按需启用的专注型角色适配器（独立 prompt + 适配器）。
 
