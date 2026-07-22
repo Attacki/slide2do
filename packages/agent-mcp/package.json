@@ -1,0 +1,9 @@
+{
+  "name": "@wuzi/mcp",
+  "version": "0.0.1",
+  "description": "wuzi-mcp 相关定义仓库",
+  "type": "module",
+  "exports": {
+    "./*": "./*"
+  }
+}
