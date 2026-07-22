@@ -1,0 +1,15 @@
+{
+  "name": "@wuzi/tui",
+  "version": "0.0.1",
+  "description": "wuzi-tui 是终端UI库",
+  "type": "module",
+  "exports": {
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@wuzi/core": "workspace:*",
+    "chalk": "^5.6.2",
+    "marked": "^18.0.6",
+    "marked-terminal": "^7.3.0"
+  }
+}
