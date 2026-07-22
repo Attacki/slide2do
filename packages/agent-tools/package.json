@@ -1,0 +1,13 @@
+{
+  "name": "@wuzi/tools",
+  "version": "0.0.1",
+  "description": "wuzi-agent 内置工具集（读/写/改文件、执行命令、搜文件、搜代码）",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./*": "./*"
+  },
+  "dependencies": {
+    "@wuzi/types": "workspace:*"
+  }
+}
