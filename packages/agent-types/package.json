@@ -1,0 +1,10 @@
+{
+  "name": "@wuzi/types",
+  "version": "0.0.1",
+  "description": "wuzi-agent 跨模块共享类型定义",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts",
+    "./*": "./*"
+  }
+}
