@@ -1,0 +1,9 @@
+{
+  "name": "@wuzi/skills",
+  "version": "0.0.1",
+  "description": "wuzi-skill 相关定义仓库",
+  "type": "module",
+  "exports": {
+    "./*": "./*"
+  }
+}
