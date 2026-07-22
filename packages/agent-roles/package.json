@@ -1,0 +1,11 @@
+{
+  "name": "@wuzi/roles",
+  "version": "0.0.1",
+  "description": "wuzi-agent 角色与 system prompt 管理",
+  "type": "module",
+  "exports": {
+    ".": "./roles-registry.ts",
+    "./*": "./*"
+  }
+}
+
