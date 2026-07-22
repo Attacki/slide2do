@@ -1,0 +1,12 @@
+{
+  "name": "@wuzi/agent",
+  "version": "0.0.1",
+  "description": "wuzi-agent for wuzi",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts"
+  },
+  "dependencies": {
+    "@wuzi/types": "workspace:*"
+  }
+}
